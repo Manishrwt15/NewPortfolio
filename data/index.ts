@@ -72,6 +72,15 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
+    title: "Threads App – A Social Media Platform",
+    des: "A modern, full-featured social media web application that replicates the core functionalities of thread-based platforms like Threads by Meta or Reddit.",
+    img: "/p5.png",
+    iconLists: ["next.svg", "ts.svg", "re.svg", "tail.svg", "node.svg", "mgdb.svg",],
+    link: "https://threads-app-six-mauve.vercel.app",
+
+  },
+  {
+    id: 2,
     title: "Go-Foodie - Food Delivery App",
     des: "A full-stack food delivery app with a scalable backend and interactive UI",
     img: "/p1.png", 
@@ -79,7 +88,7 @@ export const projects = [
     link: "https://go-foodie-frontend.onrender.com/",
   },
   {
-    id: 2,
+    id: 3,
     title: "Wanderlust",
     des: "A travel guide app using Mapbox for location-based recommendations",
     img: "/p2.png",
@@ -87,7 +96,7 @@ export const projects = [
     link: "https://wanderlust-fqvy.onrender.com/listings",
   },
   {
-    id: 3,
+    id: 4,
     title: "Orient Bond",
     des: "A client web app for showcasing and managing adhesive products",
     img: "/p3.png",
@@ -95,7 +104,7 @@ export const projects = [
     link: "https://www.orientbondadhesive.com/",
   },
   {
-    id: 4,
+    id: 5,
     title: "Weather App",
     des: "Fetches real-time weather data with a clean and minimal UI",
     img: "/p4.png",
