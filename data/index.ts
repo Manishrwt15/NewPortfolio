@@ -75,7 +75,7 @@ export const projects = [
     title: "Threads App – A Social Media Platform",
     des: "A modern, full-featured social media web application that replicates the core functionalities of thread-based platforms like Threads by Meta or Reddit.",
     img: "/p5.png",
-    iconLists: ["next.svg", "ts.svg", "re.svg", "tail.svg", "node.svg", "mgdb.svg",],
+    iconLists: ["/next.svg", "/ts.svg", "/re.svg", "/tail.svg", "/node.svg", "/mgdb.svg",],
     link: "https://threads-app-six-mauve.vercel.app",
 
   },
